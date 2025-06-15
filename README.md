@@ -73,11 +73,8 @@ Create story points with narrative flow
 Add annotations and recommendations
 Build executive summary
 
-📋 Complete Interview Preparation:
-The guide includes detailed answers to all 7 interview questions with:
 
-
-📁 Deliverables for GitHub:
+# 📁 Deliverables for GitHub:
 Your repository should include:
 ├── superstore_dashboard.twbx (Tableau workbook)
 ├── screenshots/ (All dashboard views)
