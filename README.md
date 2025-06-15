@@ -38,7 +38,8 @@ Performance optimization tips
 
 
 # 📊 Key Dashboard Components You'll Build:
-
+ ##-<a href="https://github.com/Ishksha/Data-Visualization-and-Storytelling/blob/main/Superstore%20Analytics.png">Dashboard</a>
+ 
 Executive KPIs - Total Sales, Profit, Orders, Discount metrics
 Category Performance - Bar charts with business insights
 Regional Analysis - Maps and pie charts showing distribution
