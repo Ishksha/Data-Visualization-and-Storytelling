@@ -41,7 +41,8 @@ Performance optimization tips
  ##-<a href="https://github.com/Ishksha/Data-Visualization-and-Storytelling/blob/main/Superstore%20Analytics.png">Dashboard</a>
  
 Executive KPIs - Total Sales, Profit, Orders, Discount metrics
-Category Performance - Bar charts with business insights
+Category Performance - Bar charts with business insights             
+-<a href="https://public.tableau.com/app/profile/ishan.kshatriya/viz/Book1_17487990579820/CategoryBreakdown">breakdown analysis</a>
 Regional Analysis - Maps and pie charts showing distribution
 Trend Analysis - Line charts revealing seasonal patterns
 Interactive Filters - Date, category, and region selections
